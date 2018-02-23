@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+
+<questions>
+    <question id="pregunta_01">
+	<type>text</type>
+	<title>¿En que año se produjo la Revolución Francesa? </title>
+	<answer>1789</answer>
+    </question>
+    <question id="pregunta_02">
+	<type>select</type>
+	<title>¿Cuál de estas frases pertenece al filósofo Friedrich Nietzsche?</title>
+	<option>El destino de los hombres está hecho de momentos felices, toda la vida los tiene, pero no de épocas felices.</option>
+	<option>Pienso, luego existo.</option>
+	<option>-Solo hay un Dios, el conocimiento, y un demonio, la ignorancia.</option>
+	<option>Puedo controlar mis pasiones y emociones si puedo entender su naturaleza.</option>
+	<answer>0</answer>
+    </question>
+     <question id="pregunta_03">
+	<type>checkbox</type>
+	<title>¿Con que nombre se conoce al animal más letal del planeta?</title>
+	<option>Avispa de Mar</option>
+	<option>Medusa Aust</option>
+	<option>Libélula de Mar</option>
+	<option>Medusa de caja</option>
+	<answer>0</answer>
+	<answer>3</answer>
+    </question>
+
+	
+</questions>
