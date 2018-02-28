@@ -1,0 +1,117 @@
+{
+  "questions": {
+    "question": [
+      {
+        "-id": "pregunta_01",
+        "type": "text",
+        "title": "¿En que año se produjo la Revolución Francesa? ",
+        "answer": "1789"
+      },
+      {
+        "-id": "pregunta_02",
+        "type": "select",
+        "title": "¿Cuál de estas frases pertenece al filósofo Friedrich Nietzsche?",
+        "option": [
+          "El destino de los hombres está hecho de momentos felices, toda la vida los tiene, pero no de épocas felices.",
+          "Pienso, luego existo.",
+          "Solo hay un Dios, el conocimiento, y un demonio, la ignorancia.",
+          "Puedo controlar mis pasiones y emociones si puedo entender su naturaleza."
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "pregunta_03",
+        "type": "checkbox",
+        "title": "¿Con que nombre se conoce al animal más letal del planeta?",
+        "option": [
+          "Avispa de Mar",
+          "Medusa Aust",
+          "Libélula de Mar",
+          "Medusa de caja"
+        ],
+        "answer": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "-id": "pregunta_04",
+        "type": "radiobutton",
+        "title": "¿En que año finalizó la Guerra Civil Española y comenzó la Segunda Guerra Mundial?",
+        "option": [
+          "1939",
+          "1942",
+          "1945",
+          "1936"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "pregunta_05",
+        "type": "select",
+        "title": "Elige la opcion correcta",
+        "option": [
+          "Petra, Jordania.",
+          "Torre de Pisa, Paises Bajos.",
+          "Machu Picchu, Chile.",
+          "Taj Mahal, Mongolia."
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "pregunta_06",
+        "type": "text",
+        "title": "¿En que año se produjo la caida del Muro de Berlin? ",
+        "answer": "1989"
+      },
+      {
+        "-id": "pregunta_07",
+        "type": "checkbox",
+        "title": "¿Qué paises encabezan la primera y segunda posición en pontecias economicas mundiales?",
+        "option": [
+          "Japon",
+          "China",
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "answer": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "-id": "pregunta_08",
+        "type": "radiobutton",
+        "title": "¿Cúal es el porcentaje de especies conocidas de la Tierra?",
+        "option": [
+          "60%",
+          "55%",
+          "3%",
+          "14%"
+        ],
+        "answer": "3"
+      },
+      {
+        "-id": "pregunta_09",
+        "type": "checkbox",
+        "title": "¿Qué opciones son maneras de saludarse en Euskera?",
+        "option": [
+          "Agur",
+          "Aupa",
+          "Kaixo",
+          "Gabon"
+        ],
+        "answer": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "-id": "pregunta_10",
+        "type": "text",
+        "title": "Realiza la siguiente operación: 9 x 17 + 11 ÷8 -3,5 ",
+        "answer": "17"
+      }
+    ]
+  }
+}
