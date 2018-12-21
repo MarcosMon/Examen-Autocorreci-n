@@ -1,0 +1,29 @@
+body,html {
+	margin:10px
+}
+body {
+	width:100%;
+	padding-left:0%;
+	padding-right:
+}
+body,input,select,label {
+	font-size:1vw
+}
+h3 {
+	font-size:2vw
+}
+input,select {
+	width:51%
+}
+input[type=checkbox] {
+	width:4%;
+	zoom:1.5
+}
+input[type=radio] {
+	width:4%;
+	zoom:1.5
+}
+form {
+	background-color:#FFA07A;
+	padding: 5%
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+    <question id="pregunta_01">
+        <type>text</type>
+        <title>¿En que año se produjo la Revolución Francesa? </title>
+        <answer>1789</answer>
+    </question>
+    <question id="pregunta_02">
+        <type>select</type>
+        <title>¿Cuál de estas frases pertenece al filósofo Friedrich Nietzsche?</title>
+        <option>El destino de los hombres está hecho de momentos felices, toda la vida los tiene, pero no de épocas felices.</option>
+        <option>Pienso, luego existo.</option>
+        <option>Solo hay un Dios, el conocimiento, y un demonio, la ignorancia.</option>
+        <option>Puedo controlar mis pasiones y emociones si puedo entender su naturaleza.</option>
+        <answer>0</answer>
+    </question>
+    <question id="pregunta_03">
+        <type>checkbox</type>
+        <title>¿Con que nombre se conoce al animal más letal del planeta?</title>
+        <option>Avispa de Mar</option>
+        <option>Medusa Aust</option>
+        <option>Libélula de Mar</option>
+        <option>Medusa de caja</option>
+        <answer>0</answer>
+        <answer>3</answer>
+    </question>
+    <question id="pregunta_04">
+        <type>radiobutton</type>
+        <title>¿En que año finalizó la Guerra Civil Española y comenzó la Segunda Guerra Mundial?</title>
+        <option>1939</option>
+        <option>1942</option>
+        <option>1945</option>
+        <option>1936</option>
+        <answer>0</answer>
+    </question>
+    <question id="pregunta_05">
+        <type>select</type>
+        <title>Elige la opcion correcta</title>
+        <option>Petra, Jordania.</option>
+        <option>Torre de Pisa, Paises Bajos.</option>
+        <option>Machu Picchu, Chile.</option>
+        <option>Taj Mahal, Mongolia.</option>
+        <answer>0</answer>
+    </question>
+    <question id="pregunta_06">
+        <type>text</type>
+        <title>¿En que año se produjo la caida del Muro de Berlin? </title>
+        <answer>1989</answer>
+    </question>
+    <question id="pregunta_07">
+        <type>checkbox</type>
+        <title>¿Qué paises encabezan la primera y segunda posición en pontecias economicas mundiales?</title>
+        <option>Japon</option>
+        <option>China</option>
+        <option>Reino Unido</option>
+        <option>Estados Unidos</option>
+        <answer>1</answer>
+        <answer>3</answer>
+    </question>
+    <question id="pregunta_08">
+        <type>radiobutton</type>
+        <title>¿Cúal es el porcentaje de especies conocidas de la Tierra?</title>
+        <option>60%</option>
+        <option>55%</option>
+        <option>3%</option>
+        <option>14%</option>
+        <answer>3</answer>
+    </question>
+    <question id="pregunta_09">
+        <type>checkbox</type>
+        <title>¿Qué opciones son maneras de saludarse en Euskera?</title>
+        <option>Agur</option>
+        <option>Aupa</option>
+        <option>Kaixo</option>
+        <option>Gabon</option>
+        <answer>1</answer>
+		<answer>2</answer>
+        
+    </question>
+    <question id="pregunta_10">
+        <type>text</type>
+        <title>Realiza la siguiente operación: 9 x 17 + 11 ÷8 -3,5 </title>
+        <answer>17</answer>
+    </question>
+</questions>
